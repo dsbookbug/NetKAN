@@ -1,0 +1,18 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "Inline Ballutes",
+    "$kref"        : "#/ckan/github/riocrokite/InlineBallutes",
+    "name"         : "Inline Ballutes",
+    "abstract"     : "Slow down your rocket in an upper atmosphere - Ballute = parachute + balloon = an alternative to a heatshield.",
+    "license"      : "CC-BY-NC-SA-4.0",
+    "ksp_version"  : "1.0.4",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/134573"
+    },
+    "install": [
+        {
+            "file"       : "KermangeddonIndustries",
+            "install_to" : "GameData"
+        }
+    ]
+}
