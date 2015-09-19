@@ -1,6 +1,6 @@
 {
     "spec_version" : 1,
-    "identifier"   : "Inline Ballutes",
+    "identifier"   : "InlineBallutes",
     "$kref"        : "#/ckan/github/riocrokite/InlineBallutes",
     "name"         : "Inline Ballutes",
     "abstract"     : "Slow down your rocket in an upper atmosphere - Ballute = parachute + balloon = an alternative to a heatshield.",
